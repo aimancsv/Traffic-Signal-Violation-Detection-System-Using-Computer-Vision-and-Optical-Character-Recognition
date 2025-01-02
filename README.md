@@ -1,0 +1,2 @@
+# Traffic-Signal-Violation-Detection-System-Using-Computer-Vision-and-Optical-Character-Recognition
+Using computer vision and deep learning to develop a system that addresses road safety concerns by analyzing video and image data to detect vehicle violations of traffic signals. Leveraging advanced computer vision algorithms, object detection, and real-time video analysis, this system supports law enforcement and reduces accidents. SDG 11
