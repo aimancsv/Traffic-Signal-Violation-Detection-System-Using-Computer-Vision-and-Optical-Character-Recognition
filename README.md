@@ -44,10 +44,10 @@ Using computer vision and deep learning to develop a system that addresses road 
 ---
 
 #### Benefits
-- **Road Safety**: Reduces traffic violations and accidents by identifying high-risk areas and enabling targeted interventions.  
-- **Efficiency**: Supports enforcement agencies with automated evidence collection, reducing reliance on manual monitoring.  
-- **Public Confidence**: Promotes compliance with traffic laws and fosters safer road environments.  
-- **Insights**: Provides valuable data for city planners to optimize traffic signal timings and infrastructure improvements.
+- Reduces traffic violations and accidents by identifying high-risk areas and enabling targeted interventions.  
+- Supports enforcement agencies with automated evidence collection, reducing reliance on manual monitoring.  
+- Promotes compliance with traffic laws and fosters safer road environments.  
+- Provides valuable data for city planners to optimize traffic signal timings and infrastructure improvements.
 
 
 ---
